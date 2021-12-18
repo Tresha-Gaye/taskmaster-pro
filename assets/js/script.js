@@ -181,11 +181,6 @@ $(".list-group").on("change", "input[type='text']", function () {
 
 });
 
-
-
-
-
-
 // modal was triggered
 $("#task-form-modal").on("show.bs.modal", function() {
   // clear values
